@@ -1,0 +1,33 @@
+<doctype! html>
+  <html lang="en">
+    <head>
+      <title>Text Formating</title>
+    </head>
+    <body>
+      <p>
+      Lorem ipsum dolor sit amet consectetur<del>adipisicing elit</del><br> . Praesentium obcaecati ipsam <ins>ex earum</ins>  sit in tenetur fuga labore quo veritatis.<br>
+      <dfn>HTML</dfn> is Hyper text markup Language<br>
+      <kbd>
+        Ctrl + C 
+      </kbd><br>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. <s>Debitis inventore laboriosam nisi dolor architecto deleniti! Veritatis reprehenderit doloremque vero nisi</s> dolorem possimus, necessitatibus incidunt hic totam saepe ipsam numquam rerum!<br>
+      <var>
+        Lorem, ipsum.
+      </var><br>
+      <samp>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, animi?</samp><br>
+      <time datetime="25 september2025">25 october</time><br>
+      <bdo dir="My name is Tahmid">My name is Tahmid</bdo>
+      <bdi>My name is Tahmid Islam</bdi>
+
+
+
+
+      </p>
+
+
+
+    </body>
+
+
+  </html>
+
